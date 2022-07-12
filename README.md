@@ -1,5 +1,5 @@
 # major-element
-arrays
+moree's algorithm
     int majorityElement(int a[], int size)
     {
         
